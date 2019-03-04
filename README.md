@@ -1,4 +1,4 @@
-# Compositional-inverse-predciction Repository
+# Compositional-inverse-prediction Repository
 
 This repository contains code and data from the paper:
 
