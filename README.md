@@ -3,7 +3,7 @@
 This repository contains code and data from the paper
 
 To reproduce the results from:
-Tipton, John., Hooten, M.B., Nolan, C., Booth, R.K., McLachlan, J. (In Review).  Predicting Unobserved Climate from Compositional Data using Multivariate Gaussian Process Inverse Prediction. 
+Tipton, John., Hooten, M.B., Nolan, C., Booth, R.K., McLachlan, J. (In Review).  Predicting paleoclimate from compositional data using multivariate Gaussian process inverse prediction.
     
 1) install the BayesComposition `R` package using `devtools` as
 
