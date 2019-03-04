@@ -15,13 +15,13 @@ install_github("jtipton25/BayesComposition")
 2) To generate the simulation study results using the BUMMER data model, run the `Rmarkdown` document
 
 ```
-simulation-dm-bummer.Rmd
+appendix-simulation-dm-bummer.Rmd
 ```
 
 3) To generate the simulation study results using the MVGP data model, run the `Rmarkdown` document
 
 ```
-simulation-dm.Rmd
+appendix-simulation-dm.Rmd
 ```
 
 
