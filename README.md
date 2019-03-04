@@ -3,8 +3,12 @@
 This repository contains code and data from the paper:
 
 Tipton, John., Hooten, M.B., Nolan, C., Booth, R.K., McLachlan, J. (In Review).  Predicting paleoclimate from compositional data using multivariate Gaussian process inverse prediction.
+
+
+
+To reproduce the results in the manuscript, clone this repository and open the RStudio project using the file `compositional-inverse-prediction.Rproj`. Then:
     
-1) install the BayesComposition `R` package using `devtools` as
+1) Install the BayesComposition `R` package using `devtools` as
 
 ```
 library(devtools)
